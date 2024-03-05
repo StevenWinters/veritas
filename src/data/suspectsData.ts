@@ -1,5 +1,5 @@
 import Mishka from "../assets/suspects/MISHKA.jpg";
-import Angel from "../assets/suspects/ANGEL.jpg";
+import Angel from "../assets/suspects/angel.jpg";
 import Cedric from "../assets/suspects/cedric.jpg";
 import DJ from "../assets/suspects/dj.jpg";
 import Ron from "../assets/suspects/ron.jpg";
