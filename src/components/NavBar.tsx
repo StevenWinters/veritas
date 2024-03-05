@@ -29,7 +29,7 @@ const NavBar = ({ isNavActive }: Props) => {
   return (
     <>
       {isNavActive && (
-        <header className="flex justify--center nav__header">
+        <header className="flex justify--center">
           <nav
             className={`flex justify--between align--center nav__bar ${
               isMenuActive && "active"
