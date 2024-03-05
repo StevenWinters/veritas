@@ -1,13 +1,13 @@
-import Mishka from "../assets/suspects/MISHKA.jpg";
+import Mishka from "../assets/suspects/mishka.jpg";
 import Angel from "../assets/suspects/angel.jpg";
 import Cedric from "../assets/suspects/cedric.jpg";
 import DJ from "../assets/suspects/dj.jpg";
 import Ron from "../assets/suspects/ron.jpg";
-import Erica from "../assets/suspects/ERICA.jpg";
-import Leanne from "../assets/suspects/LEANNE.jpg";
-import Nhielle from "../assets/suspects/NHIELLE.jpg";
-import Keisha from "../assets/suspects/KEISHA.jpg";
-import Jaz from "../assets/suspects/JAZ.jpg";
+import Erica from "../assets/suspects/erica.jpg";
+import Leanne from "../assets/suspects/leanne.jpg";
+import Nhielle from "../assets/suspects/nhielle.jpg";
+import Keisha from "../assets/suspects/keisha.jpg";
+import Jaz from "../assets/suspects/jaz.jpg";
 
 export const suspectsData = [
   {
