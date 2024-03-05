@@ -1,4 +1,10 @@
+import { useEffect } from "react";
+
 const Terms = () => {
+  useEffect(() => {
+    document.title = "Veritas | Terms";
+  });
+
   return (
     <section className="block container">
       <div className="terms">

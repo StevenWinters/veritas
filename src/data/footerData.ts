@@ -5,13 +5,13 @@ export const footerData = [
     children: [
       {
         id: 1,
-        name: "Posters",
-        path: "/posters",
+        name: "Suspects",
+        path: "/suspects",
       },
       {
         id: 2,
-        name: "Clips",
-        path: "/clips",
+        name: "Footage",
+        path: "/footage",
       },
     ],
   },
@@ -22,7 +22,7 @@ export const footerData = [
       {
         id: 1,
         name: "Guide",
-        path: "/manual",
+        path: "/guide",
       },
     ],
   },
